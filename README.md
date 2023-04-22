@@ -1,6 +1,8 @@
-## 文件结构：
+## File structure:
 ```
-  ├── model.py: ResNet模型搭建
-  ├── train.py: 训练脚本
-  ├── predict.py: 单张图像预测脚本
+├── model.py: ResNet model construction 
+├── train.py: Training script 
+├── predict.py: Single image prediction script
 ```
+
+
