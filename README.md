@@ -27,3 +27,16 @@ Hugely imbalanced.
 The number of samples corresponding to each expression in the training sample data on the left.
 The picture on the right predicts the number of samples corresponding to each expression in the sample data.
 ![alt text](http://miro.medium.com/v2/resize:fit:4800/format:webp/1*dVHeYhoQHSFXqDFKvbAMDw.jpeg)
+ResNet model
+epoch:40
+batch size:32
+lr:0.01
+Important components of the network model
+And the main parameters of model training
+![alt text](http://miro.medium.com/v2/resize:fit:4800/format:webp/1*0nMT02_q4n0Ngg-6zWlBSQ.jpeg)
+The left picture shows the changing trend of training error and testing error, and the right picture shows the changing trend of training accuracy and testing accuracy.
+![alt text](http://miro.medium.com/v2/resize:fit:4800/format:webp/1*ArCIMqmOGsXhh9eCbBQu2Q.jpeg)
+Results
+![alt text](http://miro.medium.com/v2/resize:fit:4800/format:webp/1*EqnizrQgZh84wE7YBz2kNg.jpeg)
+confusion matrix
+![alt text](http://miro.medium.com/v2/resize:fit:4800/format:webp/1*G2XHpXzmf3ZPKwCXALEy_A.jpeg)
