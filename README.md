@@ -26,4 +26,4 @@ Hugely imbalanced.
 
 The number of samples corresponding to each expression in the training sample data on the left.
 The picture on the right predicts the number of samples corresponding to each expression in the sample data.
-![Alt text]([image link](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*dVHeYhoQHSFXqDFKvbAMDw.jpeg))
+![alt text](http://url/to/img.png)
